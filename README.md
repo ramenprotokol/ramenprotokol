@@ -15,6 +15,7 @@ I work where product, engineering, and AI systems meet: AI-assisted delivery, AI
 - **[hallucination-hunter](https://github.com/ramenprotokol/hallucination-hunter)** — detect & score LLM hallucinations by groundedness; runs offline, no API key. *Measure.*
 - **[ai-delivery-engineering](https://github.com/ramenprotokol/ai-delivery-engineering)** — a playbook for shipping software reliably with AI-assisted workflows. *Methodology.*
 - **[field-lab](https://github.com/ramenprotokol/field-lab)** — the portfolio hub, live at **[field-lab.pages.dev](https://field-lab.pages.dev)**.
+- **[openai-build-week-2026](https://github.com/ramenprotokol/openai-build-week-2026)** — CONTROL ROOM: directs AI coding agents through a visible Scout → Builder → Verifier chain, gated by human approval at every step. Live demo: **[control-room-build-week-2026.pages.dev](https://control-room-build-week-2026.pages.dev/)**. Submitted to OpenAI Build Week 2026, Education track. *Supervise.*
 
 ### Find my work
 - 🌐 Website: **[field-lab.pages.dev](https://field-lab.pages.dev)**
