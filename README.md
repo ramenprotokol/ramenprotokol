@@ -17,6 +17,18 @@ I work where product, engineering, and AI systems meet: AI-assisted delivery, AI
 - **[field-lab](https://github.com/ramenprotokol/field-lab)** — the portfolio hub, live at **[field-lab.pages.dev](https://field-lab.pages.dev)**.
 - **[openai-build-week-2026](https://github.com/ramenprotokol/openai-build-week-2026)** — CONTROL ROOM: directs AI coding agents through a visible Scout → Builder → Verifier chain, gated by human approval at every step. Live demo: **[control-room-build-week-2026.pages.dev](https://control-room-build-week-2026.pages.dev/)**. Submitted to OpenAI Build Week 2026, Education track. *Supervise.*
 
+**Ten languages, ten small apps** — one small browser app per language, each README with its tests and limits.
+- **[overprint](https://github.com/ramenprotokol/overprint)** · Rust → WASM — a photo becomes a two-ink riso print. *Print.*
+- **[sky-report](https://github.com/ramenprotokol/sky-report)** · GLSL + TypeScript + Worker — the live sky, ray-marched from an airport's METAR. *Render.*
+- **[small-print](https://github.com/ramenprotokol/small-print)** · Python Worker — Terms of Service mapped clause by clause, every quote verified. *Verify.*
+- **[silt](https://github.com/ramenprotokol/silt)** · Zig → WASM — 10,000 years of rain carving a painted mountain. *Simulate.*
+- **[tide-table](https://github.com/ramenprotokol/tide-table)** · Go → WASM — a cron schedule as a year-long almanac, daylight-saving seams included. *Schedule.*
+- **[paren](https://github.com/ramenprotokol/paren)** · ClojureScript — a Lisp expression evaluated one substitution at a time. *Step.*
+- **[single-track](https://github.com/ramenprotokol/single-track)** · Elm — a single-track timetable puzzle, par proven on plates I–VIII. *Solve.*
+- **[sideband](https://github.com/ramenprotokol/sideband)** · C → WASM, AudioWorklet — a six-operator FM synth in the audio thread. *Play.*
+- **[knot](https://github.com/ramenprotokol/knot)** · TypeScript + Three.js — draw a rope in 3D; it works out which knot you tied. *Identify.*
+- **[stroke-order](https://github.com/ramenprotokol/stroke-order)** · Kotlin/JS — write a kanji; order and direction checked stroke by stroke. *Write.*
+
 ### Find my work
 - 🌐 Website: **[field-lab.pages.dev](https://field-lab.pages.dev)**
 - 📂 Pinned projects below.
