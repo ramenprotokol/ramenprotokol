@@ -1,3 +1,14 @@
 
 # Agent state, browser-test output and local Cloudflare state — never commit
- .env .env.* .dev.vars .dev.vars.* .DS_Store .claude/ .codex/ .specstory/ .playwright-mcp/ .playwright-cli/ test-results/ playwright-report/
+.env
+.env.*
+.dev.vars
+.dev.vars.*
+.DS_Store
+.claude/
+.codex/
+.specstory/
+.playwright-mcp/
+.playwright-cli/
+test-results/
+playwright-report/
