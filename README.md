@@ -12,11 +12,11 @@ I work where product, engineering, and AI systems meet: AI-assisted delivery, AI
 
 ### Selected work — *build → measure → enforce*
 - **[overkill](https://github.com/ramenprotokol/overkill)** — OVERKILL: Claude Opus 5.5 overengineers chores as chain-reaction machines; a deterministic physics sim, not the model, decides whether each one works. Live: **[overkill-95w.pages.dev](https://overkill-95w.pages.dev)** (machines designed offline; live generation needs an API key and isn't running). *Prove.*
-- **[delivery-gate](https://github.com/ramenprotokol/delivery-gate)** — a CLI that gives a hard GO/NO-GO on a release: machine auto-checks plus a human-attested manifest. *Enforce.*
+- **delivery-gate** (source private) — a CLI that gives a hard GO/NO-GO on a release: machine auto-checks plus a human-attested manifest. *Enforce.*
 - **[hallucination-hunter](https://github.com/ramenprotokol/hallucination-hunter)** — detect & score LLM hallucinations by groundedness; runs offline, no API key. *Measure.*
 - **[ai-delivery-engineering](https://github.com/ramenprotokol/ai-delivery-engineering)** — a playbook for shipping software reliably with AI-assisted workflows. *Methodology.*
 - **[field-lab](https://github.com/ramenprotokol/field-lab)** — the portfolio hub, live at **[field-lab.pages.dev](https://field-lab.pages.dev)**.
-- **[openai-build-week-2026](https://github.com/ramenprotokol/openai-build-week-2026)** — CONTROL ROOM: directs AI coding agents through a visible Scout → Builder → Verifier chain, gated by human approval at every step. Live demo: **[control-room-build-week-2026.pages.dev](https://control-room-build-week-2026.pages.dev/)**. Submitted to OpenAI Build Week 2026, Education track. *Supervise.*
+- **CONTROL ROOM** (source private) — directs AI coding agents through a visible Scout → Builder → Verifier chain, gated by human approval at every step. Live demo: **[control-room-build-week-2026.pages.dev](https://control-room-build-week-2026.pages.dev/)**. Submitted to OpenAI Build Week 2026, Education track. *Supervise.*
 
 **Ten languages, ten small apps** — one small browser app per language, each one live, each README with its tests and limits.
 - **[overprint](https://github.com/ramenprotokol/overprint)** ([live](https://overprint-1iy.pages.dev)) · Rust → WASM — a photo becomes a two-ink riso print. *Print.*
